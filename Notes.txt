@@ -1,0 +1,6 @@
+1. Basics of reacts
+2. Real DOM vs Virtual DOM
+3. Component architecture
+4. props drilling with map function on array of object(JSON like data structure)
+5. Tailwind CSS
+6. First mini project , rendering user cards with mutliple data and props drilling
