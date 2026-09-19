@@ -4,3 +4,6 @@
 4. props drilling with map function on array of object(JSON like data structure)
 5. Tailwind CSS
 6. First mini project , rendering user cards with mutliple data and props drilling
+7. build UI from a reference webpage using react and tailwind CSS
+8. understand useState and application
+9. handle state across multiple events
