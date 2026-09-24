@@ -7,3 +7,12 @@
 7. build UI from a reference webpage using react and tailwind CSS
 8. understand useState and application
 9. handle state across multiple events
+10. function and its application in react
+11. useEffect and its dependency array
+12. use a public API to show the data it sends
+13. understand JSON.stringify and .parse
+14. a basic knowledge of pagination
+15. routing using react router DOM
+16. use case of link tag instead of a tag to maintain single page application
+17. advance routing, nested routing, 
+18. useContext, create->provide->use
